@@ -9,13 +9,14 @@ export const links: LinksType[] = [
     label: 'home',
   },
   {
-    href: 'products',
-    label: 'products',
-  },
-  {
     href: 'about',
     label: 'about',
   },
+  {
+    href: 'products',
+    label: 'products',
+  },
+
   {
     href: 'cart',
     label: 'cart',
